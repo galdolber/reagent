@@ -1,4 +1,4 @@
-{:paths ["src/reagent"]
+{:paths ["src"]
  :deps {org.clojure/clojure {:mvn/version "1.7.0"}
         org.clojure/clojurescript {:mvn/version "1.7.48"}
         cljsjs/react {:mvn/version "0.13.3-1"}}}
